@@ -1,0 +1,18 @@
+                                    ./o-        ${c}Distro: ${c}Apricity OS
+          ``...``              `:. -/:          ${c}OS Type: ${c}Linu
+     `-+ymNMMMMMNmho-`      :sdNNm/             ${c}File Size:
+   `+dMMMMMMMMMMMMMMMmo` sh:.:::-               ${c}Version:
+  /mMMMMMMMMMMMMMMMMMMMm/`sNd/                  ${c}Based On: ${c}Arch Linux
+ oMMMMMMMMMMMMMMMMMMMMMMMs -`                   ${c}Developer: ${c}Alex Gajewski and The Apricity OS Team
+:MMMMMMMMMMMMMMMMMMMMMMMMM/                     ${c}Origin: ${c}Chicago,IL USA
+NMMMMMMMMMMMMMMMMMMMMMMMMMd                     ${c}Architecture: ${c}i686, x86_64
+MMMMMMMmdmMMMMMMMMMMMMMMMMd                     ${c}Desktop: ${c}Cinnamon, GNOME
+MMMMMMy` .mMMMMMMMMMMMmho:`                     ${c}Package Manager: ${c}pacman
+MMMMMMNo/sMMMMMMMNdy+-.`-/                      ${c}Initial Release: ${c}2016
+MMMMMMMMMMMMNdy+:.`.:ohmm:                      ${c}Release Cycle: ${c}Rolling
+MMMMMMMmhs+-.`.:+ymNMMMy.
+MMMMMM/`.-/ohmNMMMMMMy-
+MMMMMMNmNNMMMMMMMMmo.
+MMMMMMMMMMMMMMMms:`
+MMMMMMMMMMNds/.
+dhhyys+/-`

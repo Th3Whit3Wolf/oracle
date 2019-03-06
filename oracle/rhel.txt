@@ -1,0 +1,16 @@
+             `.-..........`                     Distro: ${c}Red Hat Enterprise Linux
+            `////////::.`-/.                    OS Type: ${c}Linux
+            -: ....-////////.                   File Size:
+            //:-::///////////`                  Version:
+     `--::: `-://////////////:                  Based On: ${c}Fedora
+     //////-    ``.-:///////// .`               Developer: ${c}Red Hat Inc.
+     `://////:-.`    :///////::///:`            Origin: ${c}USA
+       .-/////////:---/////////////:            Architecture: ${c}arm64, i386, ia64, ppc, ppc64el, s390, s390x, x86_64
+          .-://////////////////////.            Desktop: ${c}GNOME, KDE
+${c}         yMN+`.-${c}::///////////////-`             Package Manager: ${c}DNF, yum
+${c}      .-`:NMMNMs`  `..-------..`                ${c}Initial Release: ${c}February, 22nd 2000
+${c}        MN+/mMMMMMhoooyysshsss                  ${c}Release Cycle: ${c}2 Years
+${c} MMM    MMMMMMMMMMMMMMyyddMMM+
+${c}  MMMM   MMMMMMMMMMMMMNdyNMMh`     hyhMMM
+${c}   MMMMMMMMMMMMMMMMyoNNNMMM+.   MMMMMMMM
+${c}    MMNMMMNNMMMMMNM+ mhsMNyyyyMNMMMMsMM

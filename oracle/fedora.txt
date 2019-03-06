@@ -1,0 +1,17 @@
+          /:-------------:\\                    Distro: ${c}Fedora
+       :-------------------::                   OS Type: ${c}Linux
+     :-----------${c} /shhOHbmp${c} ---:\\              File Size:
+   /-----------${c} omMMMNNNMMD  ${c} ---:              Version:
+  :-----------${c} sMMMMNMNMP${c} .    ---:             Based On: ${c}Independent
+ :-----------${c} :MMMdP${c} -------    ---\\           Developer: ${c} Fedora Project (sponsored by Red Hat)
+,------------${c} :MMMd${c} --------    ---:            Origin: ${c}USA
+:------------${c} :MMMd${c} -------    .---:            Architecture: ${c}arm64, i386, ia64, ppc, ppc64el, s390, s390x, x86_64
+:----    ${c} oNMMMMMMMMMNho${c}     .----:             Desktop: ${c}Cinnamon, Gnome, KDE, LXDE, Mate, SOAS, XFCE
+:--     .${c} +shhhMMMmhhy++${c}   .------/             Package Manager: ${c}DNF, yum
+:-    -------${c} :MMMd${c} --------------:             Initial Release: ${c}November, 6th 2003
+:-   --------${c} /MMMd${c} -------------;              Release Cycle: ${c} 6 Months
+:-    ------${c} /hMMMy${c} ------------:${c}${c}
+:--${c}  :dMNdhhdNMMNo${c} ------------;${c}${c}
+:---${c} :sdNMMMMNds:${c} ------------:${c}${c}
+:------${c} :://:${c} -------------::${c}${c}
+:---------------------://

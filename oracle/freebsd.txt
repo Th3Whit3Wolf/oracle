@@ -1,0 +1,15 @@
+   ${c}```                        ${c}`                Distro: ${c}FreeBSD
+  ${c}` `.....---...${c}....--.```   -/                OS Type: ${c}BSD
+  ${c}+o   .--`         ${c}/y:`      +.               File Size:
+  ${c} yo`:.            ${c}:o      `+-                Version:
+    ${c}y/               ${c}-/`   -o/                 Based On: ${c}Independent
+   ${c}.-                  ${c}::/sy+:.                Developer: ${c}The FreeBSD Project
+   ${c}/                     ${c}`--  /                Origin: ${c}USA
+  ${c}`:                          ${c}:`               Architecture: ${c}arm, arm64, armel, i386, mips, mipsel, sparc64, pc98, powerpc64, x86_64, etc
+  ${c}`:                          ${c}:`               Desktop: ${c}AfterStep, Awesome, Blackbox, Fluxbox, GNOME, IceWM, KDE Plasma, LXDE, Openbox, Xfce, etc
+   ${c}/                          ${c}/                Package Manager: ${c}pkg
+   ${c}.-                        ${c}-.                Initial Release: ${c}November, 1st 1993
+    ${c}--                      ${c}-.                 Release Cycle: ${c}Stable 2 Years, Release 6 Months, Current Rolling
+     ${c}`:`                  ${c}`:`
+       .--             `--.
+          .---.....----.

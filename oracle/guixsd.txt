@@ -1,0 +1,12 @@
+ ..                             `.              Distro: ${c}Guixsd
+ `--..```..`           `..```..--`              OS Type: ${c}Linux
+   .-:///-:::.       `-:::///:-.                File Size:
+      ````.:::`     `:::.````                   Version:
+           -//:`    -::-                        Based On: ${c}Independent
+            ://:   -::-                         Developer: ${c}GNU Project
+            `///- .:::`                         Origin: ${c}USA
+             -+++-:::.                          Architecture: ${c}i686, x86_64, arm
+              :+/:::-                           Desktop: ${c}Enlightenment, GNOME, LXDE, XFCE
+              `-....`                           Package Manager: ${c}GNU Guix
+                                                Initial Release: ${c}February 3, 2015
+                                                Release Cycle: ${c}N/A

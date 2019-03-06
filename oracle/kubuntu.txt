@@ -1,0 +1,20 @@
+           `.:/ossyyyysso/:.    	        Distro: ${c}Kubuntu
+        .:oyyyyyyyyyyyyyyyyyyo:`                OS Type: ${c}Linux
+      -oyyyyyyyo${c}dMMy${c}yyyyyyysyyyyo-              File Size:
+    -syyyyyyyyyy${c}dMMy${c}oyyyy${c}dmMMy${c}yyyys-            Version:
+   oyyys${c}dMy${c}syyyy${c}dMMMMMMMMMMMMMy${c}yyyyyyo          Based On: ${c}Debian, Ubuntu
+ `oyyyy${c}dMMMMy${c}syysoooooo${c}dMMMMy${c}yyyyyyyyo`         Developer: ${c}Community-driven
+ oyyyyyy${c}dMMMMy${c}yyyyyyyyyyys${c}dMMy${c}sssssyyyo         Origin: ${c}Isles of Man
+-yyyyyyyy${c}dMy${c}syyyyyyyyyyyyyys${c}dMMMMMy${c}syyy-        Architecture: ${c}i386, x86_64
+oyyyysoo${c}dMy${c}yyyyyyyyyyyyyyyyyy${c}dMMMMy${c}syyyo        Desktop: ${c}KDE Plasma
+yyys${c}dMMMMMy${c}yyyyyyyyyyyyyyyyyysosyyyyyyyy        Package Manager: ${c}dpkg
+yyys${c}dMMMMMy${c}yyyyyyyyyyyyyyyyyyyyyyyyyyyyy        Initial Release: ${c}April, 8th 2005
+oyyyyysos${c}dy${c}yyyyyyyyyyyyyyyyyy${c}dMMMMy${c}syyyo        Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+-yyyyyyyy${c}dMy${c}syyyyyyyyyyyyyys${c}dMMMMMy${c}syyy-${c}${c}
+ oyyyyyy${c}dMMMy${c}syyyyyyyyyyys${c}dMMy${c}oyyyoyyyo${c}${c}
+ `oyyyy${c}dMMMy${c}syyyoooooo${c}dMMMMy${c}oyyyyyyyyo${c}${c}
+   oyyysyyoyyyys${c}dMMMMMMMMMMMy${c}yyyyyyyo${c}${c}
+    -syyyyyyyyy${c}dMMMy${c}syyy${c}dMMMy${c}syyyys-${c}${c}
+      -oyyyyyyy${c}dMMy${c}yyyyyysosyyyyo-${c}${c}
+        ./oyyyyyyyyyyyyyyyyyyo/.
+           `.:/oosyyyysso/:.`

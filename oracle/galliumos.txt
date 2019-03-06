@@ -1,0 +1,19 @@
+sooooooooooooooooooooooooooooooooooooo+:        Distro: ${c}Gallium OS
+yyooooooooooooooooooooooooooooooooo+/:::        OS Type: ${c}Linux
+yyysoooooooooooooooooooooooooooo+/::::::        File Size:
+yyyyyoooooooooooooooooooooooo+/:::::::::        Version:
+yyyyyysoooooooooooooooooo++/::::::::::::        Based On: ${c}Ubuntu
+yyyyyyysoooooooooooooo++/:::::::::::::::        Developer: ${c}Gallium OS Community
+yyyyyyyyysoooooo${c}sydddys${c}+/:::::::::::::::        Origin: ${c}USA
+yyyyyyyyyysooo${c}smMMMMMMMNd${c}+::::::::::::::        Architecture: ${c}x86_64
+yyyyyyyyyyyyo${c}sMMMMMMMMMMMN${c}/:::::::::::::        Desktop: ${c}XFCE
+yyyyyyyyyyyyy${c}dMMMMMMMMMMMM${c}o//:::::::::::        Package Manager: ${c}apt- dpkg
+yyyyyyyyyyyyy${c}hMMMMMMMMMMMm${c}--//::::::::::        Initial Release: ${c}November 10th, 2015
+yyyyyyyyyyyyyy${c}hmMMMMMMMNy${c}:..-://::::::::        Release Cycle: ${c}N/A
+yyyyyyyyyyyyyyy${c}yyhhyys+:${c}......://:::::::
+yyyyyyyyyyyyyyys+:--...........-///:::::
+yyyyyyyyyyyys+:--................://::::
+yyyyyyyyyo+:-.....................-//:::
+yyyyyyo+:-..........................://:
+yyyo+:-..............................-//
+o/:-...................................:

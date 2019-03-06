@@ -1,0 +1,21 @@
+[tasks.pre]
+script = [
+    "sudo mkdir -p /etc/oracle",
+    "sudo cp -r ./oracle/* /etc/oracle"
+]
+
+[tasks.release]
+command = "cargo"
+args = ["build", "--release"]
+dependencies = ["pre"]
+
+[tasks.install]
+command = "cargo"
+args = ["install", "--path", "PWD"]
+dependencies = ["pre"]
+
+[tasks.build]
+dependencies = [
+    "pre",
+    "release",
+]

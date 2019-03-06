@@ -1,0 +1,20 @@
+             .:+syhhhhys+:.                     Distro: ${c}Anthon Open Source Community
+         .ohNMMMMMMMMMMMMMMNho.                 OS Type: ${c}Linux
+      `+mMMMMMMMMMMmdmNMMMMMMMMm+`              File Size:
+     +NMMMMMMMMMMMM/   `./smMMMMMN+             Version:
+   .mMMMMMMMMMMMMMMo        -yMMMMMm.           Based On: ${c}Independent
+  :NMMMMMMMMMMMMMMMs          .hMMMMN:          Developer: ${c}Mingcong Bai and AOSC developers
+ .NMMMMhmMMMMMMMMMMm+/-         oMMMMN.         Origin: ${c}USA
+ dMMMMs  ./ymMMMMMMMMMMNy.       sMMMMd         Architecture: ${c}AMD64, MIPS, ARM, PowerPC, RISC-V
+-MMMMN`      oMMMMMMMMMMMN:      `NMMMM-        Desktop: ${c}KDE, GNOME, MATE, XFCE, LXDE, i3
+/MMMMh       NMMMMMMMMMMMMm       hMMMM/        Package Manager: ${c}apt
+/MMMMh       NMMMMMMMMMMMMm       hMMMM/        Initial Release: ${c}2011
+-MMMMN`      :MMMMMMMMMMMMy.     `NMMMM-        Release Cycle: ${c}Semi-Rolling
+ dMMMMs       .yNMMMMMMMMMMMNy/. sMMMMd
+ .NMMMMo         -/+sMMMMMMMMMMMmMMMMN.
+  :NMMMMh.          .MMMMMMMMMMMMMMMN:
+   .mMMMMMy-         NMMMMMMMMMMMMMm.
+     +NMMMMMms/.`    mMMMMMMMMMMMN+
+      `+mMMMMMMMMNmddMMMMMMMMMMm+`
+         .ohNMMMMMMMMMMMMMMNho.
+             .:+syhhhhys+:.

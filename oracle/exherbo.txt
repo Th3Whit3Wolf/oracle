@@ -1,0 +1,22 @@
+ ,                                              Distro: ${c}Exherbo
+OXo.                                            OS Type: ${c}Linux
+NXdX0:    .cok0KXNNXXK0ko:.                     File Size:
+KX  '0XdKMMK;.xMMMk, .0MMMMMXx;  ...            Version:
+'NO..xWkMMx   kMMM    cMMMMMX,NMWOxOXd.         Based On: ${c}Independent (forked from Gentoo)
+  cNMk  NK    .oXM.   OMMMMO. 0MMNo  kW.        Developer: ${c}Ciaran McCreesh
+  lMc   o:       .,   .oKNk;   ;NMMWlxW'        Origin: ${c}Denmark
+ ;Mc    ..   .,,'    .0M${c}g;${c}WMN'dWMMMMMMO         Architecture: ${c}armv7, i686, x86_64
+ XX        ,WMMMMW.  cM${c}cfli${c}WMKlo.   .kMk        Desktop: ${c}Awesome, Enlightenment, Fluxbox, GNOME, KDE, Openbox, Xfce
+.Mo        .WM${c}GD${c}MW.   XM${c}WO0${c}MMk        oMl       Package Manager: ${c}Paludis
+,M:         ,XMMWx::,''oOK0x;          NM.      Initial Release: ${c}2008
+'Ml      ,kNKOxxxxxkkO0XXKOd:.         oMk      Release Cycle: ${c}Rolling Release
+ NK    .0Nxc${c}:::::::::::::::${c}fkKNk,      .MW
+ ,Mo  .NXc${c}::${c}qXWXb${c}::::::::::${c}oo${c}::${c}lNK.    .MW
+  ;Wo oMd${c}:::${c}oNMNP${c}::::::::${c}oWMMMx${c}:${c}c0M;   lMO
+   'NO;W0c${c}:::::::::::::::${c}dMMMMO${c}::${c}lMk  .WM'
+     xWONXdc${c}::::::::::::::${c}oOOo${c}::${c}lXN. ,WMd
+      'KWWNXXK0Okxxo,${c}:::::::${c},lkKNo  xMMO
+        :XMNxl,';:lodxkOO000Oxc. .oWMMo
+          'dXMMXkl;,.        .,o0MMNo'
+             ':d0XWMMMMWNNNNMMMNOl'
+                   ':okKXWNKkl'

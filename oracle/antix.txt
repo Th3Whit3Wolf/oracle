@@ -1,0 +1,13 @@
+                                                Distro: ${c}Antix
+                    \                           OS Type: ${c}Linux
+         , - ~ ^ ~ - \        /                 File Size:
+     , '              \ ' ,  /                  Version:
+   ,                   \   '/                   Based On: ${c}Debian
+  ,                     \  / ,                  Developer: ${c}Antix Development Team
+ ,___,                   \/   ,                 Origin: ${c}Greece
+ /   |   _  _  _|_ o     /\   ,                 Architecture: ${c}i486, x86_64
+|,   |  / |/ |  |  |    /  \  ,                 Desktop: ${c}Fluxbox, IceWM, JWM, Xfce
+ \,_/\_/  |  |_/|_/|_/_/    \,                  Package Manager: ${c}dpkg
+   ,                  /     ,\                  Initial Release: ${c}2007
+     ,               /  , '   \                 Release Cycle: ${c}Every 2 Years
+      ' - , _ _ _ ,  '

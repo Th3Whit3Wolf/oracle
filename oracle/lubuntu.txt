@@ -1,0 +1,20 @@
+           `-/+oyyhhhhyyo+/-`                   Distro: ${c}Lubuntu
+        ./shhhhhhhhhhhhhhhhhhs/.                OS Type: ${c}Linux
+     `:shhhhhhhhhhhhhhhhhhhhhhhhs:`             File Size:
+    :yhhhhhhhhhhhhhhhs++yhhhhhhhhhy:         	Version:
+  `ohhhhhhhhhhhhhs+:. .yhhhhhhhhhhhho`          Based On: ${c}Debian, Ubuntu
+ `shhhhhhhhhhy+:`     /yhhhhhhhhhhhhhs`         Developer: ${c}Lubuntu Community
+ shhhhhhhhy+.          .ohhhhhhhhhhhhhs         Origin: ${c}France, Taiwan
+:hhhhhhy/.               /hhhhhhhhhhhhh:        Architecture: ${c}i386, powerpc, x86_64
+shhhy/.                   :hhhhhhhhhhhhs        Desktop: ${c}LXDE, LXQT, Openbox
+hy+.   `        `+yhs/`    +hhhhhhhhhhhh        Package Manager: ${c}dpkg
+-.:/oshy-  `   :yhhhhhy/    shhhhhhhhhhh        Initial Release: ${c}October, 30th 2008
+shhhhhy-`/s. .shhhhhhhhho`  .hhhhhhhhhhs        Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+:hhhho`:ys` /yhhhhhhhhhhhs`  +hhhhhhhhh:
+ shh/.sh+ `ohhhhhhhhhhhhhhs` .hhhhhhhhs
+ `o-+hh: :yhhhhhhhhhhhhhhhho  ohhhhhhs`
+   +hy-`ohhhhhhhhhhhhhhhhhhh+ -hhhhho`
+    :.-yhhhhhhhhhhhhhhhhhhhhh: yhhy:
+      :shhhhhhhhhhhhhhhhhhhhhy`+s:`
+        .+shhhhhhhhhhhhhhhhhhs:`
+           `-/+oyyhhhhyys+/-`

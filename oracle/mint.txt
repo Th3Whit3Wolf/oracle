@@ -1,0 +1,16 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMmds+.                  Distro: ${c}Linux Mint
+MMm----::-://////////////oymNMd+`               OS Type: ${c}Linux
+MMd      ${c}/++                ${c}-sNMd:              File Size:
+MMNso/`  ${c}dMM    `.::-. .-::.` ${c}.hMN:             Version:
+ddddMMh  ${c}dMM   :hNMNMNhNMNMNh: ${c}`NMm             Based On: ${c}Debian, Ubuntu LTS
+    NMm  ${c}dMM  .NMN/-+MMM+-/NMN` ${c}dMM             Developer: ${c}Clément Lefèbvre, Jamie Boo Birse, & Kendall Weaver
+    NMm  ${c}dMM  -MMm  `MMM   dMM. ${c}dMM             Origin: ${c}Ireland
+    NMm  ${c}dMM  -MMm  `MMM   dMM. ${c}dMM             Architecture: ${c}i386, x86_64
+    NMm  ${c}dMM  .mmd  `mmm   yMM. ${c}dMM             Desktop: ${c}Cinnamon, GNOME, KDE, MATE, Xfce
+    NMm  ${c}dMM`  ..`   ...   ydm. ${c}dMM             Package Manager: ${c}dpkg
+    hMM- ${c}+MMd/-------...-:sdds  ${c}dMM             Initial Release: ${c}August, 27th 2006
+    -NMm- ${c}:hNMNNNmdddddddddy/`  ${c}dMM    	        Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+     -dMNs-${c}``-::::-------.``    ${c}dMM${c}${c}
+      `/dMNmy+/:-------------:/yMMM
+         ./ydNMMMMMMMMMMMMMMMMMMMMM
+            .MMMMMMMMMMMMMMMMMMM

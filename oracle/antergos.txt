@@ -1,0 +1,19 @@
+              `.-/::/-``                        Distro: ${c}Antergos
+            .-/osssssssso/.                     OS Type: ${c}Linux
+           :osyysssssssyyys+-                   File Size:
+        `.+yyyysssssssssyyyyy+.                 Version:
+       `/syyyyyssssssssssyyyyys-`               Based On: ${c}Arch Linux
+      `/yhyyyyysss${c}++${c}ssosyyyyhhy/`               Developer: ${c}Alexandre Filgueira and Team
+     .ohhhyyyys${c}o++/+o${c}so${c}+${c}syy${c}+${c}shhhho.             Origin: ${c}Spain
+    .shhhhys${c}oo++//+${c}sss${c}+++${c}yyy${c}+s${c}hhhhs.            Architecture: ${c}x86_64
+   -yhhhhs${c}+++++++o${c}ssso${c}+++${c}yyy${c}s+o${c}hhddy:           Desktop: ${c}Cinnamon, GNOME, KDE, MATE, Openbox, Xfce
+  -yddhhy${c}o+++++o${c}syyss${c}++++${c}yyy${c}yooy${c}hdddy-          Package Manager: ${c}Pacman
+ .yddddhs${c}o++o${c}syyyyys${c}+++++${c}yyhh${c}sos${c}hddddy`         Initial Release: ${c}7 May 2012s
+`odddddhyosyhyyyyyy${c}++++++${c}yhhhyosddddddo         Release Cycle: ${c}Rolling
+.dmdddddhhhhhhhyyyo${c}+++++${c}shhhhhohddddmmh.${c}${c}
+ddmmdddddhhhhhhhso${c}++++++${c}yhhhhhhdddddmmdy${c}${c}
+dmmmdddddddhhhyso${c}++++++${c}shhhhhddddddmmmmh${c}${c}
+-dmmmdddddddhhys${c}o++++o${c}shhhhdddddddmmmmd-${c}${c}
+.smmmmddddddddhhhhhhhhhdddddddddmmmms.
+   `+ydmmmdddddddddddddddddddmmmmdy/.
+      `.:+ooyyddddddddddddyyso+:.`

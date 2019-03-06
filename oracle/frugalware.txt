@@ -1,0 +1,23 @@
+          `++/::-.`                              Distro: ${c}Frugalware
+         /o+++++++++/::-.`                       OS Type: ${c}Linux
+        `o+++++++++++++++o++/::-.`               File Size:
+        /+++++++++++++++++++++++oo++/:-.``       Version:
+       .o+ooooooooooooooooooosssssssso++oo++/:-` Based On: ${c}Independent
+       ++osoooooooooooosssssssssssssyyo+++++++o: Developer: ${c}Miklós Vajna
+      -o+ssoooooooooooosssssssssssssyyo+++++++s` Origin: ${c}Hungary
+      o++ssoooooo++++++++++++++sssyyyyo++++++o:  Architecture: ${c}i686, x86_64
+     :o++ssoooooo${c}/-------------${c}+syyyyyo+++++oo   Desktop: ${c}Fluxbox, GNOME, KDE Plasma, Openbox, Razor-qt
+    `o+++ssoooooo${c}/-----${c}+++++ooosyyyyyyo++++os:   Package Manager: ${c}pacman
+    /o+++ssoooooo${c}/-----${c}ooooooosyyyyyyyo+oooss    Initial Release: ${c}2004
+   .o++++ssooooos${c}/------------${c}syyyyyyhsosssy-    Release Cycle: ${c}Sporadic
+   ++++++ssooooss${c}/-----${c}+++++ooyyhhhhhdssssso
+  -s+++++syssssss${c}/-----${c}yyhhhhhhhhhhhddssssy.
+  sooooooyhyyyyyh${c}/-----${c}hhhhhhhhhhhddddyssy+
+ :yooooooyhyyyhhhyyyyyyhhhhhhhhhhdddddyssy`
+ yoooooooyhyyhhhhhhhhhhhhhhhhhhhddddddysy/
+-ysooooooydhhhhhhhhhhhddddddddddddddddssy
+ .-:/+osssyyyysyyyyyyyyyyyyyyyyyyyyyyssy:
+       ``.-/+oosysssssssssssssssssssssss
+               ``.:/+osyysssssssssssssh.
+                        `-:/+osyyssssyo
+                                .-:+++`

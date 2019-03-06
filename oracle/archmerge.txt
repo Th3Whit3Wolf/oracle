@@ -1,0 +1,20 @@
+                    y:                          Distro: ${c}Archmerge
+                  sMN-                          OS Type: ${c}Linux
+                 +MMMm`                         File Size:
+                /MMMMMd`                        Version:
+               :NMMMMMMy                        Based On: ${c}Arch Linux
+              -NMMMMMMMMs                       Developer: ${c}Archmerge Developers
+             .NMMMMMMMMMM+                      Origin: ${c}Belgium
+            .mMMMMMMMMMMMM+                     Architecture: ${c}armc, x86_64
+            oNMMMMMMMMMMMMM+                    Desktop: ${c}Xfce, Openbox, I3.
+          `+:-+NMMMMMMMMMMMM+                   Package Manager: ${c}Pacman
+          .sNMNhNMMMMMMMMMMMM/                  Initial Release: ${c}2017
+        `hho/sNMMMMMMMMMMMMMMM/                 Release Cycle: ${c}Rolling Release
+       `.`omMMmMMMMMMMMMMMMMMMM+
+      .mMNdshMMMMd+::oNMMMMMMMMMo
+     .mMMMMMMMMM+     `yMMMMMMMMMs
+    .NMMMMMMMMM/        yMMMMMMMMMy
+   -NMMMMMMMMMh         `mNMMMMMMMMd`
+  /NMMMNds+:.`             `-/oymMMMm.
+ +Mmy/.                          `:smN:
+/+.                                  -o.

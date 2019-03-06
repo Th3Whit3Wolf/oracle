@@ -1,0 +1,16 @@
+                     WW                         Distro: ${c}Hyperbola
+                     KX              W          OS Type: ${c}Linux
+                    WO0W          NX0O          File Size:
+                    NOO0NW  WNXK0OOKW           Version:
+                    W0OOOOOOOOOOOOKN            Based On: ${c}Arch
+                     N0OOOOOOO0KXW              Developer: ${c}Hyperbola Founders
+                       WNXXXNW                  Origin: ${c}Brazil
+                 NXK00000KN                     Architecture: ${c}i686, x86_64
+             WNK0OOOOOOOOOO0W                   Desktop: ${c}None
+           NK0OOOOOOOOOOOOOO0W                  Package Manager: ${c}pacman
+         X0OOOOOOO00KK00OOOOOK                  Initial Release: ${c}April 15th, 2017
+       X0OOOO0KNWW      WX0OO0W                 Release Cycle: ${c}Every 3 Years
+     X0OO0XNW              KOOW
+   N00KNW                   KOW
+ NKXN                       W0W
+WW                           W

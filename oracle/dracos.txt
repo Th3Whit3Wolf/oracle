@@ -1,0 +1,13 @@
+       `-:/-                                    Distro: ${c}Drac OS
+          -os:                                  OS Type: ${c}Linux
+            -os/`                               File Size:
+              :sy+-`                            Version:
+               `/yyyy+.                         Based On: ${c}LFS
+                 `+yyyyo-                       Developer: ${c}Screet Sec
+                   `/yyyys:                     Origin: ${c}Indonesia
+`:osssoooo++-        +yyyyyy/`                  Architecture: ${c}x86_64
+   ./yyyyyyo         yo`:syyyy+.                Desktop: ${c}Openbox
+      -oyyy+         +-   :yyyyyo-              Package Manager: ${c}None
+        `:sy:        `.    `/yyyyys:            Initial Release: ${c}2016
+           ./o/.`           .oyyso+oo:`         Release Cycle: ${c}N/A
+              :+oo+//::::///:-.`     `.`

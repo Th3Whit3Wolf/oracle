@@ -1,0 +1,21 @@
+                     'c'                        Distro: ${c}Arch Labs
+                    'kKk,                       OS Type: ${c}Linux
+                   .dKKKx.                      File Size:
+                  .oKXKXKd.                     Version:
+                 .l0XXXXKKo.                    Based On: ${c}Arch Linux
+                 c0KXXXXKX0l.                   Developer: ${c}Nathaniel Maia & Matthew Dobson
+                :0XKKOxxOKX0l.                  Origin: ${c}New Zealand
+               :OXKOc. .c0XX0l.                 Architecture: ${c}x86_64
+              :OK0o. ${c}...${c}'dKKX0l.                Desktop: ${c}Cinnamon, Enlightenment, GNOME, KDE, LXDE, MATE, Xfce
+             :OX0c  ${c};xOx'${c}'dKXX0l.               Package Manager: ${c}Pacman
+            :0KKo.${c}.o0XXKd'.${c}lKXX0l.              Initial Release: ${c}January, 24th 2017
+           c0XKd.${c}.oKXXXXKd..${c}oKKX0l.             Release Cycle: ${c}Rolling Release
+         .c0XKk;${c}.l0K0OO0XKd..${c}oKXXKo.${c}${c}
+        .l0XXXk:${c},dKx,.'l0XKo.${c}.kXXXKo.${c}${c}
+       .o0XXXX0d,${c}:x;   .oKKx'${c}.dXKXXKd.${c}${c}
+      .oKXXXXKK0c.${c};.    :00c'${c}cOXXXXXKd.${c}${c}
+     .dKXXXXXXXXk,${c}.     cKx'${c}'xKXXXXXXKx'${c}${c}
+    'xKXXXXK0kdl:.     ${c}.ok; ${c}.cdk0KKXXXKx'${c}${c}
+   'xKK0koc,..         ${c}'c, ${c}    ..,cok0KKk,${c}${c}
+  ,xko:'.             ${c}.. ${c}           .':okx;${c}${c}
+ .,'.                                   .',.

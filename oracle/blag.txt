@@ -1,0 +1,17 @@
+             d                                  Distro: ${c}Blag
+            ,MK:                                OS Type: ${c}Linux
+            xMMMX:                              File Size:
+           .NMMMMMX;                            Version:
+           lMMMMMMMM0clodkO0KXWW:               Based On: ${c}Fedora
+           KMMMMMMMMMMMMMMMMMMX'                Developer: ${c}Brixton Linux Action Group
+      .;d0NMMMMMMMMMMMMMMMMMMK.                 Origin: ${c}United Kingdom
+ .;dONMMMMMMMMMMMMMMMMMMMMMMx                   Architecture: ${c}i686, x86_64
+'dKMMMMMMMMMMMMMMMMMMMMMMMMl                    Desktop: ${c}GNOME, LXDE, MATE, Xfce
+   .:xKWMMMMMMMMMMMMMMMMMMM0.                   Package Manager: ${c}dnf
+       .:xNMMMMMMMMMMMMMMMMMK.                  Initial Release: ${c}2002
+          lMMMMMMMMMMMMMMMMMMK.                 Release Cycle: ${c}Rolling Release
+          ,MMMMMMMMWkOXWMMMMMM0
+          .NMMMMMNd.     `':ldko
+           OMMMK:
+           oWk,
+           ;:

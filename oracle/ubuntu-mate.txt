@@ -1,0 +1,20 @@
+           `:+shmNNMMNNmhs+:`                   Distro: ${c}Ubuntu MATE
+        .odMMMMMMMMMMMMMMMMMMdo.                OS Type: ${c}Linux
+      /dMMMMMMMMMMMMMMMmMMMMMMMMd/              File Size:
+    :mMMMMMMMMMMMMNNNNM/`/yNMMMMMMm:    	Version:
+  `yMMMMMMMMMms:..-::oM:    -omMMMMMy`          Based On: ${c}Debian, Ubuntu
+ `dMMMMMMMMy-.odNMMMMMM:    -odMMMMMMd`         Developer: ${c}Ubuntu MATE team
+ hMMMMMMMm-.hMMy/....+M:`/yNm+mMMMMMMMh         Origin: ${c}United Kingdom
+/MMMMNmMN-:NMy`-yNMMMMMmNyyMN:`dMMMMMMM/        Architecture: ${c}armhf, i386, powerpc, x86_64
+hMMMMm -odMMh`sMMMMMMMMMMs sMN..MMMMMMMh        Desktop: ${c}MATE
+NMMMMm    `/yNMMMMMMMMMMMM: MM+ mMMMMMMN        Package Manager: ${c}dpkg
+NMMMMm    `/yNMMMMMMMMMMMM: MM+ mMMMMMMN        Initial Release: ${c}October, 23rd 2014
+hMMMMm -odMMh sMMMMMMMMMMs oMN..MMMMMMMh        Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+/MMMMNNMN-:NMy`-yNMMMMMNNsyMN:`dMMMMMMM/
+ hMMMMMMMm-.hMMy/....+M:.+hNd+mMMMMMMMh
+ `dMMMMMMMMy-.odNMMMMMM:    :smMMMMMMd`
+   yMMMMMMMMMms/..-::oM:    .+dMMMMMy
+    :mMMMMMMMMMMMMNNNNM: :smMMMMMMm:
+      /dMMMMMMMMMMMMMMMdNMMMMMMMd/
+        .odMMMMMMMMMMMMMMMMMMdo.
+           `:+shmNNMMNNmhs+:`

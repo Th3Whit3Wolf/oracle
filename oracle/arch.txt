@@ -1,0 +1,19 @@
+                   -`                           Distro: ${c}Arch Linux
+                  .o+`                          OS Type: ${c}Linux
+                 `ooo/                          File Size:
+                `+oooo:                         Version:
+               `+oooooo:                        Based On: ${c}Independent
+               -+oooooo+:                       Developer: ${c}Judd Vinet${c}(${c}Creator${c})${c}, Aaron Griffin, and others
+             `/:-:++oooo+:                      Origin: ${c}Canada
+            `/++++/+++++++:                     Architecture: ${c}arm, x86_64
+           `/++++++++++++++:                    Desktop: ${c}Cinnamon, Enlightenment, GNOME, KDE, LXDE, MATE, Xfce
+          `/+++ooooooooooooo/`                  Package Manager: ${c}pacman
+         ./ooosssso++osssssso+`                 Initial Release: ${c}March, 11th 2002
+        .oossssso-````/ossssss+`                Release Cycle: ${c}Rolling Release
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/

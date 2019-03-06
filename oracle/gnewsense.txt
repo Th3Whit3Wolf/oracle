@@ -1,0 +1,12 @@
+                     ..,,,,..                      Distro: ${c}Gnewsense
+               .oocchhhhhhhhhhccoo.                OS Type: ${c}Linux
+        .ochhlllllllc hhhhhh ollllllhhco.          File Size:
+    ochlllllllllll hhhllllllhhh lllllllllllhco     Version:
+ .cllllllllllllll hlllllo  +hllh llllllllllllllc.  Based On: ${c}Debian (Stable)
+ollllllllllhco''  hlllllo  +hllh  ``ochllllllllllo Developer: ${c}K.Goetz Brian Brazil, Paul O'Malley
+hllllllllc'       hllllllllllllh       `cllllllllh Origin: ${c}Ireland
+ollllllh          +llllllllllll+          hllllllo Architecture: ${c}i386, x86_64, mips
+ `cllllh.           ohllllllho           .hllllc'  Desktop: ${c}GNOME
+    ochllc.            ++++            .cllhco     Package Manager: ${c}apt, dpkg
+       `+occooo+.                .+ooocco+'        Initial Release: ${c}November 2nd, 2006
+              `+oo++++      ++++oo+'               Release Cycle: ${c}2 Years

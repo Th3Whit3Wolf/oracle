@@ -1,0 +1,20 @@
+          ./oydmMMMMMMmdyo/.                    Distro: ${c}Ubuntu Budgie
+        :smMMMMMMMMMMMhs+:++yhs:                OS Type: ${c}Linux
+     `omMMMMMMMMMMMN+`        `odo`             File Size:
+    /NMMMMMMMMMMMMN-            `sN/            Version:
+  `hMMMMmhhmMMMMMMh               sMh`          Based On: ${c}Debian, Ubuntu
+ .mMmo-     /yMMMMm`              `MMm.         Developer: ${c}Ubuntu Budgie team
+ mN/       yMMMMMMMd-              MMMm         Origin: ${c}United Kingdom
+oN-        oMMMMMMMMMms+//+o+:    :MMMMo        Architecture: ${c}i386, x86_64
+m/          +NMMMMMMMMMMMMMMMMm. :NMMMMm        Desktop: ${c}Budgie
+M`           .NMMMMMMMMMMMMMMMNodMMMMMMM        Package Manager: ${c}dpkg, Snappy
+M-            sMMMMMMMMMMMMMMMMMMMMMMMMM        Initial Release: ${c}April, 25th 2004
+mm`           mMMMMMMMMMNdhhdNMMMMMMMMMm    	Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+oMm/        .dMMMMMMMMh:      :dMMMMMMMo
+ mMMNyo/:/sdMMMMMMMMM+          sMMMMMm
+ .mMMMMMMMMMMMMMMMMMs           `NMMMm.
+  `hMMMMMMMMMMM.oo+.            `MMMh`
+    /NMMMMMMMMMo                sMN/
+     `omMMMMMMMMy.            :dmo`
+        :smMMMMMMMh+-`   `.:ohs:
+           ./oydmMMMMMMdhyo/.

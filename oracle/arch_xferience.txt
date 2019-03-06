@@ -1,0 +1,19 @@
+           ``--:::::::-.`                       Distro: ${c}Arch Xferience
+        .-/+++ooooooooo+++:-`                   OS Type: ${c}Linux
+     `-/+oooooooooooooooooo++:.                 File Size:
+    -/+oooooo/+ooooooooo+/ooo++:`               Version:
+  `/+oo++oo.   .+oooooo+.-: +:-o+-              Based On: ${c}Arch Linux
+ `/+o/.  -o.    :oooooo+ ```:.+oo+-             Developer: ${c}xferience
+`:+oo-    -/`   :oooooo+ .`-`+oooo/.            Origin: ${c}Bulgaria
+.+ooo+.    .`   `://///+-+..oooooo+:`           Architecture: ${c}arm, x86_64
+-+ooo:`                ``.-+oooooo+/`           Desktop: ${c}XFCE
+-+oo/`                       :+oooo/.           Package Manager: ${c}pacman
+.+oo:            ..-/. .      -+oo+/`           Initial Release: ${c}2016
+`/++-         -:::++::/.      -+oo+-            Release Cycle: ${c}Rolling Release
+ ./o:          `:///+-     `./ooo+:`
+  .++-         `` /-`   -:/+oooo+:`
+   .:+/:``          `-:ooooooo++-
+     ./+o+//:...../+oooooooo++:`
+       `:/++ooooooooooooo++/-`
+          `.-//++++++//:-.`
+               ``````

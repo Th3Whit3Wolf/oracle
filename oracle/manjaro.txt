@@ -1,0 +1,14 @@
+██████████████████  ████████                    Distro: ${c}Manjaro
+██████████████████  ████████                    OS Type: ${c}Linux
+██████████████████  ████████                    File Size:
+██████████████████  ████████                    Version:
+████████            ████████                    Based On: ${c}Arch
+████████  ████████  ████████                    Developer: ${c}Guillaume Benoit, Philip Müller
+████████  ████████  ████████                    Origin: ${c}Austria, Germany, France
+████████  ████████  ████████                    Architecture: ${c}x86_64
+████████  ████████  ████████                    Desktop: ${c}i3, Cinnamon, Deepin, GNOME, KDE Plasma, LXDE, LXQt, etc
+████████  ████████  ████████                    Package Manager: ${c}Pacman
+████████  ████████  ████████                    Initial Release: ${c}July, 10th 2011
+████████  ████████  ████████                    Release Cycle: ${c}Rolling
+████████  ████████  ████████
+████████  ████████  ████████

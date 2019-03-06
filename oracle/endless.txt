@@ -1,0 +1,20 @@
+           `:+yhmNMMMMNmhy+:`                  Distro: ${c}Endless
+        -odMMNhso//////oshNMMdo-               OS Type: ${c}Linux
+      /dMMh+.              .+hMMd/             File Size:
+    /mMNo`                    `oNMm:           Version:
+  `yMMo`                        `oMMy`         Based On: ${c}Debian
+ `dMN-                            -NMd`        Developer: ${c}Endless OS Community
+ hMN.                              .NMh        Origin: ${c}USA
+/MM/                  -os`          /MM/       Architecture: ${c}x86_64
+dMm    `smNmmhs/- `:sNMd+   ``       mMd       Desktop: ${c}EOS Shell
+MMy    oMd--:+yMMMMMNo.:ohmMMMNy`    yMM       Package Manager: ${c}apt, dpkg
+MMy    -NNyyhmMNh+oNMMMMMy:.  dMo    yMM       Initial Release: ${c}2015
+dMm     `/++/-``/yNNh+/sdNMNddMm-    mMd       Release Cycle: ${c}apt,dpkg
+/MM/          `dNy:       `-::-     /MM/
+ hMN.                              .NMh
+ `dMN-                            -NMd`
+  `yMMo`                        `oMMy`
+    /mMNo`                    `oNMm/
+      /dMMh+.              .+hMMd/
+        -odMMNhso//////oshNMMdo-
+           `:+yhmNMMMMNmhy+:`

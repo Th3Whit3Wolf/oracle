@@ -1,0 +1,15 @@
+${c},--,           ${c}|           ${c},--,                ${c}Distro: ${c}Dragonfly BSD
+${c}|   `-,       ${c},^,       ${c},-'   |                ${c}OS Type: ${c}BSD
+${c} `,    `-,   ${c}(/ \)   ${c},-'    ,'                 ${c}File Size:
+${c}   `-,    `-,${c}/   \${c},-'    ,-'                   ${c}Version:
+${c}      `------${c}(   )${c}------'                      ${c}Based On: ${c}FreeBSD
+${c}  ,----------${c}(   )${c}----------,                  ${c}Developer: ${c}Cinnamon, Fluxbox, JWM, KDE, LXDE, MATE, Openbox, Xfce
+${c} |        _,-${c}(   )${c}-,_        |                 ${c}Origin: ${c}USA
+${c}  `-,__,-'   ${c}\   /${c}   `-,__,-'                  ${c}Architecture: ${c}x86_64
+${c}              | |                              ${c}Package Manager: ${c}pkg
+              | |                              Initial Release: ${c}July, 12th 2004
+              | |                              Release Cycle: ${c}Stable 2 Years, Release 6 Months, Current Rolling
+              | |
+              | |
+              | |
+              `|'

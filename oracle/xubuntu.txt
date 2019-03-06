@@ -1,0 +1,20 @@
+           `-/osyhddddhyso/-`                   Distro: ${c}Xubuntu
+        .+yddddddddddddddddddy+.                OS Type: ${c}Linux
+      :yddddddddddddddddddddddddy:   	        File Size:
+    -yddddddddddddddddddddhdddddddy-        	Version:
+   odddddddddddyshdddddddh`dddd+ydddo           Based On: ${c}Debian, Ubuntu
+ `yddddddhshdd-   ydddddd+`ddh.:dddddy`         Developer: ${c}Community-driven
+ sddddddy   /d.   :dddddd-:dy`-ddddddds         Origin: ${c}Isles of Man
+:ddddddds    /+   .dddddd`yy`:ddddddddd:        Architecture: ${c}i386, x86_64
+sdddddddd`    .    .-:/+ssdyodddddddddds        Desktop: ${c}XFCE
+ddddddddy                  `:ohddddddddd        Package Manager: ${c}dpkg
+dddddddd.                      +dddddddd        Initial Release: ${c}June, 23rd 2006
+sddddddy                        ydddddds        Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+:dddddd+                      .oddddddd:
+ sdddddo                   ./ydddddddds
+ `yddddd.              `:ohddddddddddy`
+   oddddh/`      `.:+shdddddddddddddo
+    -ydddddhyssyhdddddddddddddddddy-
+      :yddddddddddddddddddddddddy:
+        .+yddddddddddddddddddy+.
+           `-/osyhddddhyso/-`

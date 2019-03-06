@@ -1,0 +1,12 @@
+_____       _                                   Distro: ${c}Gobolinux
+/ ____|     | |                                 OS Type: ${c}Linux
+| |  __  ___ | |__   ___                        File Size:
+| | |_ |/ _ \| '_ \ / _ \                       Version:
+| |__| | (_) | |_) | (_) |                      Based On: ${c}Independent
+ \_____|\___/|_.__/ \___/                       Developer: ${c}GoboLinux Community
+                                                Origin: ${c}Brazil
+                                                Architecture: ${c}x86_64
+                                                Desktop: ${c}Awesome
+                                                Package Manager: ${c}None
+                                                Initial Release: ${c}2003
+                                                Release Cycle: ${c}Sporadic

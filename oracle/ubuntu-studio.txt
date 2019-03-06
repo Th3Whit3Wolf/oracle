@@ -1,0 +1,20 @@
+              ..-::::::-.`                      Distro: ${c}Ubuntu Studio
+         `.:+++++++++++${c}ooo${c}++:.`    	        OS Type: ${c}Linux
+       ./+++++++++++++${c}sMMMNdyo${c}+/.		File Size:
+     .++++++++++++++++${c}oyhmMMMMms${c}++.		Version:
+   `/+++++++++${c}osyhddddhys${c}+${c}osdMMMh${c}++/`           Based On: ${c}Debian, Ubuntu
+  `+++++++++${c}ydMMMMNNNMMMMNds${c}+${c}oyyo${c}++++` 	        Developer: ${c}Ubuntu Studio Project
+  +++++++++${c}dMMNhso${c}++++${c}oydNMMmo${c}++++++++`         Origin: ${c}USA
+ :+${c}odmy${c}+++${c}ooysoohmNMMNmyoohMMNs${c}+++++++:         Architecture: ${c}i386, x86_64
+ ++${c}dMMm${c}+${c}oNMd${c}++${c}yMMMmhhmMMNs+yMMNo${c}+++++++         Desktop: ${c}XFCE
+`++${c}NMMy${c}+${c}hMMd${c}+${c}oMMMs${c}++++${c}sMMN${c}++${c}NMMs${c}+++++++.        Package Manager: ${c}dpkg
+`++${c}NMMy${c}+${c}hMMd${c}+${c}oMMMo${c}++++${c}sMMN${c}++${c}mMMs${c}+++++++.        Initial Release: ${c}May, 10th 2007
+ ++${c}dMMd${c}+${c}oNMm${c}++${c}yMMNdhhdMMMs${c}+y${c}MMNo${c}+++++++${c}${c}
+ :+${c}odmy${c}++${c}oo${c}+${c}ss${c}+${c}ohNMMMMmho${c}+${c}yMMMs${c}+++++++:${c}${c}
+  +++++++++${c}hMMmhs+ooo+oshNMMms${c}++++++++${c}${c}
+  `++++++++${c}oymMMMMNmmNMMMMmy+oys${c}+++++`${c}${c}
+   `/+++++++++${c}oyhdmmmmdhso+sdMMMs${c}++/${c}${c}
+     ./+++++++++++++++${c}oyhdNMMMms${c}++.${c}${c}
+       ./+++++++++++++${c}hMMMNdyo${c}+/.${c}${c}
+         `.:+++++++++++${c}sso${c}++:.${c}${c}
+              ..-::::::-..

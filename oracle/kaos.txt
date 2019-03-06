@@ -1,0 +1,16 @@
+                     ..              ${c}Distro: ${c}KaOS
+  .....         ..OSSAAAAAAA..       ${c}OS Type: ${c}Linux
+ .KKKKSS.     .SSAAAAAAAAAAA.        ${c}File Size:
+.KKKKKSO.    .SAAAAAAAAAA...         ${c}Version:
+KKKKKKS.   .OAAAAAAAA.               ${c}Based On: ${c}Independent
+KKKKKKS.  .OAAAAAA.                  ${c}Developer: ${c}KaOS Team
+KKKKKKS. .SSAA..                     ${c}Origin: ${c}USA
+.KKKKKS..OAAAAAAAAAAAA........       ${c}Architecture: ${c}x86_64
+ DKKKKO.=AA=========A===AASSSO..     ${c}Desktop: ${c}KDE Plasma
+  AKKKS.==========AASSSSAAAAAASS.    ${c}Package Manager: ${c}pacman
+  .=KKO..========ASS.....SSSSASSSS.  ${c}Initial Release: ${c}December 2013
+    .KK.       .ASS..O.. =SSSSAOSS:  ${c}Release Cycle: ${c}Rolling Release
+     .OK.      .ASSSSSSSO...=A.SSA.
+       .K      ..SSSASSSS.. ..SSA.
+                 .SSS.AAKAKSSKA.
+                    .SSS....S..

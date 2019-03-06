@@ -1,0 +1,17 @@
+         ${c}`.-::---..                            ${c}Distro: ${c}LMDE
+      .:++++ooooosssoo:.                       OS Type: ${c}Linux
+    .+o++::.      `.:oos+.                     File Size:
+   :oo:.`             -+oo${c}:                    ${c}Version:
+ ${c}`${c}+o/`    .${c}::::::${c}-.    .++-${c}`                   ${c}Based On: ${c}Debian
+${c}`${c}/s/    .yyyyyyyyyyo:   +o-${c}`                   ${c}Developer: ${c}Clément Lefèbvre, Jamie Boo Birse, & Kendall Weaver
+${c}`${c}so     .ss       ohyo` :s-${c}:                   ${c}Origin: ${c}Ireland
+${c}`${c}s/     .ss  h  m  myy/ /s`${c}`                   ${c}Architecture: ${c}i386, x86_64
+${c}`s:     `oo  s  m  Myy+-o:`                    ${c}Desktop: ${c}Cinnamon
+`oo      :+sdoohyoydyso/.                      Package Manager: ${c}dpkg
+ :o.      .:////////++:                        Initial Release: ${c}2010
+ `/++        ${cc}-:::::-                      Release Cycle: ${c}2 Years
+  ${c}`${c}++-
+   ${c}`${c}/+-
+     ${c}.${c}+/.
+       ${c}.${c}:+-.
+          `--.``

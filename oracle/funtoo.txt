@@ -1,0 +1,12 @@
+     _______               ____                   Distro: ${c}Ubuntu
+${c}    /MMMMMMM/             /MMMM| _____  _____     ${c}OS Type: ${c}Linux
+${c} __/M${c}.MMM.${c}M/_____________|M${c}.M${c}MM|/MMMMM\/MMMMM\\   ${c}File Size:
+${c}|MMMM${c}MM'${c}MMMMMMMMMMMMMMMMMMM${c}MM${c}MMMM${c}.MMMM..MMMM.${c}MM\\ ${c}Version:
+${c}|MM${c}MMMMMMM${c}/m${c}MMMMMMMMMMMMMMMMMMMMMM${c}MMMM${c}MM${c}MMMM${c}MM${c}MM| ${c}Based On: ${c}Gentoo
+${c}|MMMM${c}MM${c}MMM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MMMMM${c}\MMM${c}MMM${c}MM${c}MMMM${c}MM${c}MMMM${c}MM${c}MM| ${c}Developer: ${c}Daniel Robbins, Oleg Vinichenko, Funtoo Technologies
+${c}  |MM${c}MM${c}MMM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MMM${c}MMMM${c}'MMMM''MMMM'${c}MM/  ${c}Origin: ${c}USA
+${c}  |MM${c}MM${c}MMM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MM${c}MMM${c}MMM\MMMMM/\MMMMM/   ${c} Architecture: ${c}arm64, armhf, armv5te, i486, i686, x86_64
+${c}  |MM${c}MM${c}MMM${c}MM${c}MMMMMM${c}MM${c}MM${c}MM${c}MM${c}MMMMM'${c}M|         ${c}       Desktop: ${c}AfterStep, Blackbox, Fluxbox, GNOME, IceWM, KDE, LXDE, Openbox, WMaker, Xfce
+${c}  |MM${c}MM${c}MMM${c}MMMMMMMMMMMMMMMMM MM'${c}M/                 ${c}Package Manager: ${c}Portage
+${c}  |MMMMMMMMMMMMMMMMMMMMMMMMMMMM/                  ${c}Initial Release: ${c}October, 18th 2008
+                                               	  Release Cycle: ${c}Rolling Release

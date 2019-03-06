@@ -1,0 +1,18 @@
+         -/oyddmdhs+:.                                   Distro: ${c}Gentoo
+     -o${c} dNMMMMMMMMNNmhy+${c} -`                      OS Type: ${c}Linux
+   -y${c} NMMMMMMMMMMMNNNmmdhy${c} +-                    File Size:
+ `o${c} mMMMMMMMMMMMMNmdmmmmddhhy${c} /`                 Version:
+ om${c} MMMMMMMMMMMN${c} hhyyyo${c} hmdddhhhd${c} o`     Based On: ${c}Independent
+.y${c} dMMMMMMMMMMd${c} hs++so/s${c} mdddhhhhdm${c} +`   Developer: ${c}Gentoo Foundation
+ oy${c} hdmNMMMMMMMN${c} dyooy${c} dmddddhhhhyhN${c} d.  Origin: ${c}USA
+  :o${c} yhhdNNMMMMMMMNNNmmdddhhhhhyym${c} Mh            Architecture: ${c} i486, i586, i686, x86_64, alpha, arm, etc
+    .:${c} +sydNMMMMMNNNmmmdddhhhhhhmM${c} my            Desktop: ${c}Fluxbox, GNOME, IceWM, KDE Plasma, LXDE, MATE, etc
+       /m${c} MMMMMMNNNmmmdddhhhhhmMNh${c} s:            Package Manager: ${c}Emerge, Portage
+    `o${c} NMMMMMMMNNNmmmddddhhdmMNhs${c} +`             Initial Release: ${c}July 26th, 2000
+  `s${c} NMMMMMMMMNNNmmmdddddmNMmhs${c} /.               Release Cycle: ${c}Rolling
+ /N${c} MMMMMMMMNNNNmmmdddmNMNdso${c} :`
++M${c} MMMMMMNNNNNmmmmdmNMNdso${c} /-
+yM${c} MNNNNNNNmmmmmNNMmhs+/${c} -`
+/h${c} MMNNNNNNNNMNdhs++/${c} -`
+`/${c} ohdmmddhys+++/:${c} .`
+  `-//////:--.

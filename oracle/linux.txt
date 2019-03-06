@@ -1,0 +1,12 @@
+        #####                                   Operating System: ${c}Unknown
+       #######                                  OS Type: ${c}Unknown
+       ##${c}O${c}#${c}O${c}##                                  File Size:
+       #${c}#####${c}#                                  Version:
+     ##${c}##${c}###${c}##${c}##                                Based on: ${c}Unknown
+    #${c}##########${c}##                               Developer: ${c}Unknown
+   #${c}############${c}##                              Origin: ${c}Unknown
+   #${c}############${c}###                             Architecture: ${c}Unknown
+  ##${c}#${c}###########${c}##${c}#                             Desktop: ${c}Unknown
+######${c}#${c}#######${c}#${c}######                           Package Manager: ${c}Unknown
+#######${c}#${c}#####${c}#${c}#######                           Initial Release: ${c}Unknown
+  #####${c}#######${c}#####                             Release Cycle: ${c}Unknown

@@ -1,0 +1,17 @@
+        `./ohdNMMMMNmho+.` ${c}       .+oo:`.       ${c}Distro: ${c}Blankon
+      -smMMMMMMMMMMMMMMMMmy-`    ${c}`yyyyy+        ${c}OS Type: ${c}Linux
+   `:dMMMMMMMMMMMMMMMMMMMMMMd/`  ${c}`yyyyys        ${c}File Size:
+  .hMMMMMMMNmhso/++symNMMMMMMMh- ${c}`yyyyys        ${c}Version:
+ -mMMMMMMms-`         -omMMMMMMN-${c}.yyyyys        ${c}Based On: ${c}Debian
+.mMMMMMMy.              .yMMMMMMm:${c}yyyyys        ${c}Developer: ${c}Indonesian Linux Mover Foundation, BlankOn developer team
+sMMMMMMy                 `sMMMMMMh${c}yyyyys        ${c}Origin: ${c}Indonesia
+NMMMMMN:                  .NMMMMMN${c}yyyyys        ${c}Architecture: ${c}x86_64
+MMMMMMm.                   NMMMMMN${c}yyyyys        ${c}Desktop: ${c}Manokwari
+hMMMMMM+                  /MMMMMMN${c}yyyyys        ${c}Package Manager: ${c}apt, dpkg
+:NMMMMMN:                :mMMMMMM+${c}yyyyys        ${c}Initial Release: ${c}2004
+ oMMMMMMNs-            .sNMMMMMMs.${c}yyyyys        ${c}Release Cycle: ${c}Unstructured
+  +MMMMMMMNho:.`  `.:ohNMMMMMMNo ${c}`yyyyys
+   -hMMMMMMMMNNNmmNNNMMMMMMMMh-  ${c}`yyyyys
+     :yNMMMMMMMMMMMMMMMMMMNy:`   ${c}`yyyyys
+       .:sdNMMMMMMMMMMNds/.      ${c}`yyyyyo
+           `.:/++++/:.`           ${c}:oys+.

@@ -1,0 +1,21 @@
+               `..--..`                         Distro: ${c}Qubes
+            `.----------.`                      OS Type: ${c}Linux
+        `..----------------..`                  File Size:
+     `.------------------------.``              Version:
+ `..-------------....-------------..`           Based On: ${c}Fedora
+.::----------..``    ``..----------:+:          Developer: ${c} Invisible Things Lab
+:////:----..`            `..---:/ossso          Origin: ${c}USA
+:///////:`                  `/osssssso          Architecture: ${c}x86_64
+:///////:                    /ssssssso          Desktop: ${c}KDE, XFCE
+:///////:                    /ssssssso          Package Manager: ${c}DNF
+:///////:                    /ssssssso          Initial Release: ${c}September, 3rd 2012
+:///////:                    /ssssssso          Release Cycle: ${c}6 Months
+:///////:                    /ssssssso
+:////////-`                .:sssssssso
+:///////////-.`        `-/osssssssssso
+`//////////////:-```.:+ssssssssssssso-
+  .-://////////////sssssssssssssso/-`
+     `.:///////////sssssssssssssso:.
+         .-:///////ssssssssssssssssss/`
+            `.:////ssss+/+ssssssssssss.
+                `--//-    `-/osssso/.

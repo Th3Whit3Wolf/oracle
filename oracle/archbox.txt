@@ -1,0 +1,19 @@
+              ...:+oh/:::..                     Distro: ${c}Archbox
+         ..-/oshhhhhh`   `::::-.                OS Type: ${c}Linux
+     .:/ohhhhhhhhhhhh`        `-::::.           File Size:
+ .+shhhhhhhhhhhhhhhhh`             `.::-.       Version:
+ /`-:+shhhhhhhhhhhhhh`            .-/+shh       Based On: ${c}Arch Linux
+ /      .:/ohhhhhhhhh`       .:/ohhhhhhhh       Developer: ${c}glumoff
+ /           `-:+shhh`  ..:+shhhhhhhhhhhh       Origin: ${c}Ukraine
+ /                 .:ohhhhhhhhhhhhhhhhhhh       Architecture: ${c}arm, x86_64
+ /                  `hhhhhhhhhhhhhhhhhhhh       Desktop: ${c}Openbox
+ /                  `hhhhhhhhhhhhhhhhhhhh       Package Manager: ${c}pacman
+ /                  `hhhhhhhhhhhhhhhhhhhh       Initial Release: ${c}2016
+ /                  `hhhhhhhhhhhhhhhhhhhh       Release Cycle: ${c}Rolling Release
+ /      .+o+        `hhhhhhhhhhhhhhhhhhhh
+ /     -hhhhh       `hhhhhhhhhhhhhhhhhhhh
+ /     ohhhhho      `hhhhhhhhhhhhhhhhhhhh
+ /:::+`hhhhoos`     `hhhhhhhhhhhhhhhhhs+`
+    `--/:`   /:     `hhhhhhhhhhhho/-
+             -/:.   `hhhhhhs+:-`
+                ::::/ho/-`

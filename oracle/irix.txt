@@ -1,0 +1,19 @@
+           ./ohmNd/  +dNmho/-                   Distro: ${c}Irix
+     `:+ydNMMMMMMMM.-MMMMMMMMMdyo:.             OS Type: ${c}Linux
+   `hMMMMMMNhs/sMMM-:MMM+/shNMMMMMMh`           File Size:
+   -NMMMMMmo-` /MMM-/MMM- `-omMMMMMN.           Version:
+ `.`-+hNMMMMMNhyMMM-/MMMshmMMMMMmy+...`         Based On: ${c}Independent
++mMNds:-:sdNMMMMMMMyyMMMMMMMNdo:.:sdMMm+        Developer: ${c}Paul Witt
+dMMMMMMmy+.-/ymNMMMMMMMMNmy/-.+hmMMMMMMd        Origin: ${c}USA
+oMMMMmMMMMNds:.+MMMmmMMN/.-odNMMMMmMMMM+        Architecture: ${c}MIPS
+.MMMM-/ymMMMMMmNMMy..hMMNmMMMMMmy/-MMMM.        Desktop: ${c}IRIX Interactive Desktop
+ hMMM/ `/dMMMMMMMN////NMMMMMMMd/. /MMMh         Package Manager: ${c}inst
+ /MMMdhmMMMmyyMMMMMMMMMMMMhymMMMmhdMMM:         Initial Release: ${c}1988
+ `mMMMMNho//sdMMMMM//NMMMMms//ohNMMMMd          Release Cycle: ${c}NONE
+  `/so/:+ymMMMNMMMM` mMMMMMMMmh+::+o/`
+     `yNMMNho-yMMMM` NMMMm.+hNMMNh`
+     -MMMMd:  oMMMM. NMMMh  :hMMMM-
+      -yNMMMmooMMMM- NMMMyomMMMNy-
+        .omMMMMMMMM-`NMMMMMMMmo.
+          `:hMMMMMM. NMMMMMh/`
+             .odNm+  /dNms.

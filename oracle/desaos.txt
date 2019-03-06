@@ -1,0 +1,16 @@
+███████████████████████                         Distro: ${c}Desa OS
+███████████████████████                         OS Type: ${c}Linux
+███████████████████████                         File Size:
+███████████████████████                         Version:
+████████               ███████                  Based On: ${c}Ubuntu
+████████               ███████                  Developer: ${c}Developer Gedhe Foundation
+████████               ███████                  Origin: ${c}Inodnesia
+████████               ███████                  Architecture: ${c}x86_64
+████████               ███████                  Desktop: ${c}SIDESA 2.0
+████████               ███████                  Package Manager: ${c}apt, dpkg
+████████               ███████                  Initial Release: ${c}2015
+██████████████████████████████                  Release Cycle: ${c}N/A
+██████████████████████████████
+████████████████████████
+████████████████████████
+████████████████████████

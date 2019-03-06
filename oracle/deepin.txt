@@ -1,0 +1,18 @@
+             ............                       Distro: ${c}Deepin
+         .';;;;;.       .,;,.                   OS Type: ${c}Linux
+      .,;;;;;;;.       ';;;;;;;.                File Size:
+    .;::::::::'     .,::;;,''''',.              Version:
+   ,'.::::::::    .;;'.          ';             Based On: ${c}Debian(Unstable)
+  ;'  'cccccc,   ,' :: '..        .:            Developer: ${c}Wuhan Deepin Technology Co., Ltd.
+ ,,    :ccccc.  ;: .c, '' :.       ,;           Origin: ${c}China
+.l.     cllll' ., .lc  :; .l'       l.          Architecture: ${c}x86_64
+.c       :lllc  ;cl:  .l' .ll.      :'          Desktop: ${c}Deepin
+.l        'looc. .   ,o:  'oo'      c,          Package Manager: ${c}apt, dpkg
+.o.         .:ool::coc'  .ooo'      o.          Initial Release: ${c}
+ ::            .....   .;dddo      ;c           Release Cycle: ${c}Rolling Release
+  l:...            .';lddddo.     ,o
+   lxxxxxdoolllodxxxxxxxxxc      :l
+    ,dxxxxxxxxxxxxxxxxxxl.     'o,
+      ,dkkkkkkkkkkkkko;.    .;o;
+        .;okkkkkdl;.    .,cl:.
+            .,:cccccccc:,.

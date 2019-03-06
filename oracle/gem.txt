@@ -1,0 +1,15 @@
+          ##                                    Distro: ${c}Gem
+          ##         #########                  OS Type: ${c}Linux
+                    ####      ##                File Size:
+            ####  ####        ##                Version:
+####        ####  ##        ##                  Based On: ${c}Independent
+        ####    ####      ##  ##                Developer: ${c}Digital Research, Inc. / Lee Jay Lorenzen
+        ####  ####  ##  ##  ##                  Origin: ${c}USA
+            ####  ######                        Architecture: ${c}Various
+        ######  ##  ##  ####                    Desktop: ${c}GEM Desktop
+      ####    ################                  Package Manager: ${c}N/A
+    ####        ##  ####                        Initial Release: ${c}February 28th, 1985
+    ##            ####  ######                  Release Cycle: ${c}None
+    ##      ##    ####  ####
+    ##    ##  ##    ##  ##  ####
+      ####  ##          ##  ##

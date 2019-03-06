@@ -1,0 +1,17 @@
+   `hMMMMN+                                     Distro: ${c}Bitrig
+   -MMo-dMd`                                    OS Type: ${c}BSD
+   oMN- oMN`                                    File Size:
+   yMd  /NM:                                    Version:
+  .mMmyyhMMs                                    Based On: ${c}OpenBSD
+  :NMMMhsmMh                                    Developer: ${c}Artur Grabowski, Patrick Wildt
+  +MNhNNoyMm-                                   Origin: ${c}USA
+  hMd.-hMNMN:                                   Architecture: ${c}i386, x86_64
+  mMmsssmMMMo                                   Desktop: ${c}Lumina
+ .MMdyyhNMMMd                                   Package Manager: ${c}pkg
+ oMN.`/dMddMN`                                  Initial Release: ${c}2012
+ yMm/hNm+./MM/                                  Release Cycle: ${c}Unstructured
+.dMMMmo.``.NMo
+:NMMMNmmmmmMMh
+/MN/-------oNN:
+hMd.       .dMh
+sm/         /ms

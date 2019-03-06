@@ -1,0 +1,19 @@
+                        d${c}c.                     ${c}Distro: ${c}Artix
+                       x${c}dc.                     ${c}OS Type: ${c}Linux
+                  '.${c}.${c} d${c}dlc.                     ${c}File Size:
+                 c${c}0d:${c}o${c}xllc;                     ${c}Version:
+                :${c}0ddlolc,lc,                    ${c}Based On: ${c}Arch Linux
+           :${c}ko${c}.${c}:${c}0ddollc..dlc.                   Developer: ${c}agisci, archnous, damnwidget, udeved
+          ;${c}K${c}kxoOddollc'  cllc.                  Origin: ${c}Greece
+         ,${c}K${c}kkkxdddllc,   ${c}.${c}lll:                  Architecture: ${c}arm, x86_64
+        ,${c}X${c}kkkddddlll;${c}...';${c}d${c}llll${c}dxk:             Desktop: ${c}i3, LXQT
+       ,${c}X${c}kkkddddllll${c}oxxxddo${c}lll${c}oooo,             ${c}Package Manager: ${c}Pacman
+    xxk${c}0${c}kkkdddd${c}o${c}lll${c}o${c}ooooooolooooc;${c}.             ${c}Initial Release: ${c}2014
+    ddd${c}kkk${c}d${c}ddd${c}ol${c}lc:${c}:;,'.${c}... .${c}lll;               Release Cycle: ${c}Rolling Release
+   .${c}xd${c}x${c}kk${c}xd${c}dl${c}'cl:${c}.           ${c}.llc,${c}${c}
+   .${c}0${c}kkkxddl${c}. ${c};'${c}.             ${c};llc.${c}${c}
+  .${c}K${c}Okdcddl${c}.                   ${c}cllc${c}.${c}${c}
+  0${c}Okd''dc.                    .cll;${c}${c}
+ k${c}Okd'                          .llc,${c}${c}
+ d${c}Od,                            'lc.${c}${c}
+ :,${c}.                              ${c}...${c}${c}

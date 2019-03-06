@@ -1,0 +1,15 @@
+   ..,,;;;::;,..                                Distro: ${c}Devuan
+           `':ddd;:,.                           OS Type: ${c}Linux
+                 `'dPPd:,.                      File Size:
+                     `:b$$b`.                   Version:
+                        'P$$$d`                 Based On: ${c}Debian
+                         .$$$$$`                Developer: ${c}Veteran Unix Admins
+                         ;$$$$$P                Origin: ${c}Global
+                      .:P$$$$$$`                Architecture: ${c}armhf, i686, x86_64
+                  .,:b$$$$$$$;'                 Desktop: ${c}Cinnamon, KDE Plasma, LXQt, MATE, Xfce
+             .,:dP$$$$$$$$b:'                   Package Manager: ${c}apt, dpkg
+      .,:;db$$$$$$$$$$Pd'`                      Initial Release: ${c}May 25, 2017
+ ,db$$$$$$$$$$$$$$b:'`                          Release Cycle: ${c}Annually
+:$$$$$$$$$$$$b:'`
+ `$$$$$bd:''`
+   `'''`

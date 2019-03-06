@@ -1,0 +1,20 @@
+       .hddddddddddddddddddddddh.               Distro: ${c}Alpine
+      :dddddddddddddddddddddddddd:              OS Type: ${c}Linux
+     /dddddddddddddddddddddddddddd/             File Size:
+    +dddddddddddddddddddddddddddddd+            Version:
+  `sdddddddddddddddddddddddddddddddds`          Based On: ${c}Independent
+ `ydddddddddddd++hdddddddddddddddddddy`         Developer: ${c}Alpine Linux Development Team
+.hddddddddddd+`  `+ddddh:-sdddddddddddh.        Origin: ${c}Norway
+hdddddddddd+`      `+y:    .sddddddddddh        Architecture: ${c}i386, s390x, x86_64, armhf
+ddddddddh+`   `//`   `.`     -sddddddddd        Desktop: ${c}XFCE
+ddddddh+`   `/hddh/`   `:s-    -sddddddd        Package Manager: ${c}APK
+ddddh+`   `/+/dddddh/`   `+s-    -sddddd        Initial Release: ${c}2010
+ddd+`   `/o` :dddddddh/`   `oy-    .yddd        Release Cycle: ${c}Rolling
+hdddyo+ohddyosdddddddddho+oydddy++ohdddh
+.hddddddddddddddddddddddddddddddddddddh.
+ `yddddddddddddddddddddddddddddddddddy`
+  `sdddddddddddddddddddddddddddddddds`
+    +dddddddddddddddddddddddddddddd+
+     /dddddddddddddddddddddddddddd/
+      :dddddddddddddddddddddddddd:
+       .hddddddddddddddddddddddh.

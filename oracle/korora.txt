@@ -1,0 +1,16 @@
+                ____________                   Distro: ${c}Korora
+             _add55555555554${c}:                  ${c}OS Type: ${c}Linux
+           _w?'${c}``````````'${c})k${c}:                  ${c}File Size:
+          _Z'${c}`${c}            ]k${c}:                  ${c}Version:
+          m(${c}`${c}             )k${c}:                  ${c}Based On: ${c}Fedora
+     _.ss${c}`${c}m[${c}`${c},            ]e${c}:                  ${c}Developer: ${c}Christopher Smart and Ian Firns
+   .uY"^`${c}`${c}Xc${c}`${c}?Ss.         d(${c}`                  ${c}Origin: ${c}Australia
+  jF'${c}`${c}    `@.  ${c}`${c}Sc      .jr${c}`                   ${c}Architecture: ${c}i686, x86_64
+ jr${c}`${c}       `?n_ ${c}`${c}$;   _a2"${c}`                    ${c}Desktop: ${c}Cinnamon, GNOME, KDE Plasma, MATE, Xfce
+.m${c}:${c}          `~M${c}`${c}1k${c}`${c}5?!`${c}`                      ${c}Package Manager: ${c}dnf, yum
+:#${c}:${c}             ${c}`${c})e${c}```                         ${c}Initial Release: ${c}March 2006,
+:m${c}:${c}             ,#'${c}`                           ${c}Release Cycle: ${c}N/A
+:#${c}:${c}           .s2'${c}`
+:m,________.aa7^${c}`
+:#baaaaaaas!J'${c}`
+ ```````````

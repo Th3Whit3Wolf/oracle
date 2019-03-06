@@ -1,0 +1,20 @@
+           `:+ssssossossss+-`                   Distro: ${c}AIX
+        .oys///oyhddddhyo///sy+.                OS Type: ${c}Unix
+      /yo:+hNNNNNNNNNNNNNNNNh+:oy/              File Size:
+    :h/:yNNNNNNNNNNNNNNNNNNNNNNy-+h:            Version:
+  `ys.yNNNNNNNNNNNNNNNNNNNNNNNNNNy.ys           Based On: ${c}Independent
+ `h+-mNNNNNNNNNNNNNNNNNNNNNNNNNNNNm-oh          Developer: ${c}IBM
+ h+-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN.oy         Origin: ${c}USA
+/d`mNNNNNNN/::mNNNd::m+:/dNNNo::dNNNd`m:        Architecture: ${c}ROMP, IBM POWER, PowerPC, x86 (IBM PS/2)
+h//NNNNNNN: . .NNNh  mNo  od. -dNNNNN:+y        Desktop: ${c}CDE, KDE, GNOME
+N.sNNNNNN+ -N/ -NNh  mNNd.   sNNNNNNNo-m        Package Manager: ${c}None
+N.sNNNNNs  +oo  /Nh  mNNs` ` /mNNNNNNo-m        Initial Release: ${c}1986
+h//NNNNh  ossss` +h  md- .hm/ `sNNNNN:+y        Release Cycle: ${c}Unstructured
+:d`mNNN+/yNNNNNd//y//h//oNNNNy//sNNNd`m-
+ yo-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm.ss
+ `h+-mNNNNNNNNNNNNNNNNNNNNNNNNNNNNm-oy
+   sy.yNNNNNNNNNNNNNNNNNNNNNNNNNNs.yo
+    :h+-yNNNNNNNNNNNNNNNNNNNNNNs-oh-
+      :ys:/yNNNNNNNNNNNNNNNmy/:sy:
+        .+ys///osyhhhhys+///sy+.
+            -/osssossossso/-

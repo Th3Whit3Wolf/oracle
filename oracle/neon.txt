@@ -1,0 +1,19 @@
+             `..---+/---..`                     Distro: ${c}KDE Neon
+         `---.``   ``   `.---.`                 OS Type: ${c}Linux
+      .--.`        ``        `-:-.              File Size:
+    `:/:     `.----//----.`     :/-             Version:
+   .:.    `---`          `--.`    .:`           Based On: ${c}Debian, Ubuntu${c}(${c}LTS${c})${c}
+  .:`   `--`                .:-    `:.          Developer: ${c}Community-driven
+ `/    `:.      `.-::-.`      -:`   `/`         Origin: ${c}United Kingdom
+ /.    /.     `:++++++++:`     .:    .:         Architecture: ${c}x86_64
+`/    .:     `+++++++++++/      /`   `+`        Desktop: ${c}KDE
+/+`   --     .++++++++++++`     :.   .+:        Package Manager: ${c}dpkg
+`/    .:     `+++++++++++/      /`   `+`        Initial Release: ${c}June, 23rd 2006
+ /`    /.     `:++++++++:`     .:    .:         Release Cycle: ${c}2 Years
+ ./    `:.      `.:::-.`      -:`   `/`
+  .:`   `--`                .:-    `:.
+   .:.    `---`          `--.`    .:`
+    `:/:     `.----//----.`     :/-
+      .-:.`        ``        `-:-.
+         `---.``   ``   `.---.`
+             `..---+/---..`

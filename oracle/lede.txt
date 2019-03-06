@@ -1,0 +1,12 @@
+     _________                                 Distro: ${c}Lede
+    /        /\                                OS Type: ${c}Linux
+   /  LE    /  \                               File Size:
+  /    DE  /    \                              Version:
+ /________/  LE  \                             Based On: ${c}Independent
+ \        \   DE /                             Developer: ${c}LEDE Project
+  \    LE  \    /                              Origin: ${c}USA
+   \  DE    \  /                               Architecture: ${c}MIPS, PowerPC, SPARC, SuperH, Ubicom32, x86, x86-64
+    \________\/                                Desktop: ${c}None
+                                               Package Manager: ${c}opkg
+                                               Initial Release: ${c}May 2016
+                                               Release Cycle: ${c}None

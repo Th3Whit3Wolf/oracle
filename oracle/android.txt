@@ -1,0 +1,13 @@
+     ╲ ▁▂▂▂▁ ╱        		                Operating System: ${c}Android
+     ▄███████▄                                 OS Type: ${c}Linux
+    ▄██ ███ ██▄           	                File Size:
+   ▄███████████▄                          	Version:
+▄█ █████████████ █▄                            Based On: ${c} Independent
+██ █████████████ ██                             Developer: ${c}Google, Open Handset Alliance
+██ █████████████ ██                             Origin: ${c}USA
+██ █████████████ ██                             Architecture: ${c}i386, x86_64, ARM
+██ █████████████ ██                             Desktop: ${c}Launcher
+   █████████████                                Package Manager: ${c}APK
+    ███████████                                 Initial Release: ${c}September, 23rd 2008
+     ██     ██                                  Release Cycle: ${c}Annually
+     ██     ██

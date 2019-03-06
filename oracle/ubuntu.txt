@@ -1,0 +1,20 @@
+           .-/+oossssoo+/-.			Distro: ${c}Ubuntu
+       `:+ssssssssssssssssss+:`	    	        OS Type: ${c}Linux
+     -+ssssssssssssssssssyyssss+-		File Size:
+   .ossssssssssssssssss${c}dMMMNy${c}sssso.		Version:
+  /sssssssssss${c}hdmmNNmmyNMMMMh${c}ssssss/            Based On: ${c}Debian
+ +sssssssss${c}hm${c}yd${c}MMMMMMMNddddy${c}ssssssss+ 	        Developer: ${c}Canonical Ltd., Ubuntu Community
+/ssssssss${c}hNMMM${c}yh${c}hyyyyhmNMMMNh${c}ssssssss/          Origin: ${c}Isles of Man
+.ssssssss${c}dMMMNh${c}ssssssssss${c}hNMMMd${c}ssssssss.        Architecture: ${c}armhf, i686, powerpc, ppc64el, s390x, x86_64
++ssss${c}hhhyNMMNy${c}ssssssssssss${c}yNMMMy${c}sssssss+        Desktop: ${c}Gnome, Unity
+oss${c}yNMMMNyMMh${c}ssssssssssssss${c}hmmmh${c}ssssssso        Package Manager: ${c}dpkg, Snappy
+oss${c}yNMMMNyMMh${c}sssssssssssssshmmmhssssssso        Initial Release: ${c}October, 20th 2004
++ssss${c}hhhyNMMNy${c}ssssssssssss${c}yNMMMy${c}sssssss+	Release Cycle: ${c}Standards 6 Months, LTS 2 Years
+.ssssssss${c}dMMMNh${c}ssssssssss${c}hNMMMd${c}ssssssss. ${c}${c}
+/ssssssss${c}hNMMM${c}yh${c}hyyyyhdNMMMNh${c}ssssssss/${c}${c}
+ +sssssssss${c}dm${c}yd${c}MMMMMMMMddddy${c}ssssssss+${c}${c}
+  /sssssssssss${c}hdmNNNNmyNMMMMh${c}ssssss/${c}${c}
+   .ossssssssssssssssss${c}dMMMNy${c}sssso.${c}${c}
+     -+sssssssssssssssss${c}yyy${c}ssss+-${c}${c}
+       `:+ssssssssssssssssss+:`${c}${c}
+           .-/+oossssoo+/-. ${c}${c}${c}

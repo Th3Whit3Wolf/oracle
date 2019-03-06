@@ -1,0 +1,17 @@
+          :dc'                                  Distro: ${c}Haiku
+       'l:;'${c},${c}'ck.    .;dc:.                     OS Type: ${c}BeOS
+       co    ${c}..${c}k.  .;;   ':o.                   File Size:
+       co    ${c}..${c}k. ol      ${c}.${c}0.                   Version:
+       co    ${c}..${c}k. oc     ${c}..${c}0.                   Based On: ${c}Independent
+       co    ${c}..${c}k. oc     ${c}..${c}0.                   Developer: ${c}Haiku, Inc.
+.Ol,.  co ${c}...''${c}Oc;kkodxOdddOoc,.                Origin: ${c}USA
+ ';lxxlxOdxkxk0kd${c}oooll${c}dl${c}ccc:${c}clxd;               Architecture: ${c}i386, x86_64
+     ..${c}oOolllllccccccc:::::${c}od;                  Desktop: ${c}Haiku
+       cx:ooc${c}:::::::;${c}cooolcX.                   Package Manager: ${c}Haiku Depot
+       cd${c}.${c}''cloxdoollc' ${c}...${c}0.                   Initial Release: ${c}202
+       cd${c}......${c}k;${c}.${c}xl${c}....  .${c}0.                   Release Cycle: ${c}Unstructured
+       .::c${c};..${c}cx;${c}.${c}xo${c}..... .${c}0.
+          '::c'${c}...${c}do${c}..... .${c}K,
+                  cd,.${c}....:${c}O,${c}
+                    ':clod:'${c}
+                        ${c}

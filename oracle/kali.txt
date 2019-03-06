@@ -1,0 +1,21 @@
+..............                                    Distro: ${c}Kali Linux
+            ..,;:ccc,.                            OS Type: ${c}Linux
+          ......''';lxO.                          File Size:
+.....''''..........,:ld;                          Version:
+           .';;;:::;,,.x,                         Based On: ${c}Debian Testing
+      ..'''.            0Xxoc:,.  ...             Developer: ${c}Offensive Security
+  ....                ,ONkc;,;cokOdc',.           Origin: ${c}Switzerland
+ .                   OMo           ':${c}dd${c}o.         Architecture: ${c}armel, armhf, i386, x86_64
+                    dMc               :OO;        Desktop: ${c}Enlightenment, GNOME, KDE Plasma, LXDE, MATE, Xfce
+                    0M.                 .:o.      Package Manager: ${c}dpkg
+                    ;Wd                           Initial Release: ${c}March, 13th 2013
+                     ;XO,                         Release Cycle: ${c}Rolling
+                       ,d0Odlc;,..
+                           ..',;:cdOOd::,.
+                                    .:d;.':;.
+                                       'd,  .'
+                                         ;l   ..
+                                          .o
+                                            c
+                                            .'
+                                             .

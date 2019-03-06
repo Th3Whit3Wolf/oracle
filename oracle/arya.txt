@@ -1,0 +1,15 @@
+                `oyyy/${c}-yyyyyy+                  ${c}Distro: ${c}Arya Linux
+               -syyyy/${c}-yyyyyy+                  ${c}OS Type: ${c}Linux
+              .syyyyy/${c}-yyyyyy+                  ${c}File Size:
+              :yyyyyy/${c}-yyyyyy+                  ${c}Version:
+           `/ :yyyyyy/${c}-yyyyyy+                  ${c}Based On: ${c}Linux From Scratch
+          .+s :yyyyyy/${c}-yyyyyy+                  ${c}Developer: ${c}Aryalinux Developers
+         .oys :yyyyyy/${c}-yyyyyy+                  ${c}Origin: ${c}India
+        -oyys :yyyyyy/${c}-yyyyyy+                  ${c}Architecture: ${c}x86_64
+       :syyys :yyyyyy/${c}-yyyyyy+                  ${c}Desktop: ${c}GNOME, XFCE
+      /syyyys :yyyyyy/${c}-yyyyyy+                  ${c}Package Manager: ${c}alps
+     +yyyyyys :yyyyyy/${c}-yyyyyy+                  ${c}Initial Release: ${c}2015
+   .oyyyyyyo. :yyyyyy/${c}-yyyyyy+ ---------        ${c}Release Cycle: ${c}Unstructured
+  .syyyyyy+`  :yyyyyy/${c}-yyyyy+-+syyyyyyyy${c}${c}
+ -syyyyyy/    :yyyyyy/${c}-yyys:.syyyyyyyyyy${c}${c}
+:syyyyyy/     :yyyyyy/${c}-yyo.:syyyyyyyyyyy${c}${c}

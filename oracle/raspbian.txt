@@ -1,0 +1,23 @@
+  `.::///+:/-.        --///+//-:``              Distro: ${c}Rasbian
+ `+oooooooooooo:   `+oooooooooooo:              OS Type: ${c}Linux
+  /oooo++//ooooo:  ooooo+//+ooooo.              File Size:
+  `+ooooooo:-:oo-  +o+::/ooooooo:               Version:
+   `:oooooooo+``    `.oooooooo+-                Based On: ${c}Debian${c}(${c}Stable${c})${c}
+     `:++ooo/.        :+ooo+/.`                 Developer: ${c}Raspberry Pi Foundation
+${c}        ...`  `.----.` ``..                     ${c}Origin: ${c}USA
+${c}     .::::-``:::::::::.`-:::-`                  ${c}Architecture: ${c}armhf
+${c}    -:::-`   .:::::::-`  `-:::-                 ${c}Desktop: ${c}PIXEL, LXDE
+${c}   `::.  `.--.`  `` `.---.``.::`                ${c}Package Manager: ${c}dpkg
+${c}       .::::::::`  -::::::::` `                 ${c}Initial Release: ${c}September, 25th 2013
+${c} .::` .:::::::::- `::::::::::``::.              ${c}Release Cycle: ${c}2 Years
+${c}-:::` ::::::::::.  ::::::::::.`:::-
+${c}::::  -::::::::.   `-::::::::  ::::
+${c}-::-   .-:::-.``....``.-::-.   -::-
+${c} .. ``       .::::::::.     `..`..
+${c}   -:::-`   -::::::::::`  .:::::`
+${c}   :::::::` -::::::::::` :::::::.
+${c}   .:::::::  -::::::::. ::::::::
+${c}    `-:::::`   ..--.`   ::::::.
+${c}      `...`  `...--..`  `...`
+${c}            .::::::::::
+${c}             `.-::::-`
